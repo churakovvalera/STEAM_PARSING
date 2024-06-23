@@ -1,5 +1,3 @@
 # STEAM_PARSING
 
-### Brief Overview
-
-STEAM_PARSING is a Python project focused on web scraping Steam to collect data on games and user reviews. It includes scripts for extracting and organizing this data, making it useful for analytics and data-driven insights. The project requires Python 3.x and uses libraries like Requests and BeautifulSoup4 for scraping.
+STEAM_PARSING is a Python project for scraping and parsing data from the Steam platform. It helps in collecting game-related data such as game details, user reviews, and more.
