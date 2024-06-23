@@ -12,7 +12,4 @@ STEAM_PARSING is a Python project for scraping and parsing data from the Steam p
 - Requests
 - BeautifulSoup4
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/churakovvalera/STEAM_PARSING.git
+
